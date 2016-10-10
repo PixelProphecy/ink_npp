@@ -3,6 +3,17 @@ Syntax-Highlighting for Ink files
 ## What it is
 Just a simple XML file to import as User Defined Language in Notepad++ which allows syntax highlighting of files written in [Ink](https://github.com/inkle/ink).
 
+## Issues
+There are still some minor issues I wasn't able to work out, such as variable assigments being interpreted as stiches or closing brackets } following a redirection get dropped. So instead of 
+
+   `{ putcomponentintent: -> put_component_inside_tent }`
+   
+it's better to have the closing bracket on its onw line:
+
+  `{ putcomponentintent: -> put_component_inside_tent
+  }`
+
+
 ## Installation
 
 (from the [Notepad++ website](http://notepad-plus.sourceforge.net/uk/site.htm)

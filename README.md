@@ -1,5 +1,6 @@
 # ink_npp
-Syntax-Highlighting for Ink files
+Notepad++ syntax-highlighting for Ink files
+
 ## What it is
 Just a simple XML file to import as User Defined Language in Notepad++ which allows syntax highlighting of files written in [Ink](https://github.com/inkle/ink).
 

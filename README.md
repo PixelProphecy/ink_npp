@@ -20,6 +20,16 @@ it's better to have the closing bracket on its onw line:
 
 ## Installation
 
+1. Download the ink_npp.xml file
+2. Open Notepad++
+3. In the menu bar, click "Languages" and to the bottom, "Define your language..."
+4. Click "Import"
+5. Select and open the `ink_npp.xml` file you downloaded before
+6. Close the Language Definition Window.
+
+Each time you want to highlight Ink markup, just select it from the Language menu. It will be at the bottom with the other user defined styles. If you open files with an .ink extension, they will get recognized as such automatically.
+
+### Alternate Method
 (from the [Notepad++ website](http://notepad-plus.sourceforge.net/uk/site.htm)
 
 1. Download the user-defined language to your computer

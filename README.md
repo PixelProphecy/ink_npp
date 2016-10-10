@@ -11,6 +11,7 @@ There are still some minor issues I wasn't able to work out, such as variable as
 it's better to have the closing bracket on its onw line:
 
   `{ putcomponentintent: -> put_component_inside_tent
+  
   }`
 
 
